@@ -1,6 +1,6 @@
 fun main() {
     print("master")
-    println("hello world")
+    print("hello world")
     println("test_1")
     println("test_2")
     println("test_3")
