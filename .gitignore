@@ -1,5 +1,9 @@
-# Project exclude paths
+# Default ignored files
+/.idea/workspace.xml
+/.idea/modules.xml
+/.idea/libraries
+/.idea/codeStyles
+
 /out/
-/.idea/
-koltin.iml
+*.iml
 git-cleanup-repo
