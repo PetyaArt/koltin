@@ -6,5 +6,5 @@ fun main() {
     println("test_3")
     println("test_4")
     println("test_6")
-    print("test_7")
+    println("test_7")
 }
