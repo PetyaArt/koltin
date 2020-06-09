@@ -1,5 +1,5 @@
 fun main() {
-    println("master")
+    print("master")
     println("hello world")
     println("test_1")
     println("test_2")
