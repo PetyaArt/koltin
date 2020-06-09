@@ -1,6 +1,7 @@
 fun main() {
-    print("master")
-    print("hello world")
-    print("test_1")
+    println("master")
+    println("hello world")
+    println("test_1")
     println("test_2")
+    println("test_3")
 }
